@@ -25,3 +25,5 @@ print(''.join(my_list[2 : 7 : 1]))
 
 print(my_string[:: -1])
 
+
+
