@@ -4,7 +4,7 @@
 >>> list.pop('index') -- Remove element at given index
 >>> list.extend([])   -- concatenate two lists OR 
 >>> list1 + list2 
->>> list.insert(index, value) -- To insert anything at specific index
+>>> list.insert(index, value) -- To insert anything 'BEFORE' specific index
 
 """
 
@@ -29,6 +29,6 @@ list1 = [1, 2, 3, 4, 5]
 list2 = [6,7,8, 9, 10, 11]
 list1.extend([7,8,9,10])
 print(list1)
-
-list1.insert(5, "Hi there !")
+print(list1)
+list1.insert(4, "Hi there !")
 print(list1)
