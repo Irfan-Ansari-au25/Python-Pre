@@ -41,6 +41,3 @@ def printBorderElements(rows,cols):
         print()
 printBorderElements(rows,cols)
 # print(A)
-
-
-
