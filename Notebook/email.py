@@ -42,6 +42,16 @@ students_email = [
                 'rajnishkumar8595@gmail.com'
             
             ]
+temp = [
+            's.kumar.s8101997@gmail.com ',
+            'kanhu.kcn@gmail.com',
+            'zeddkhan101@gmail.com',
+            'govindsarraf4109@gmail.com',
+            'himanshugoyal785@gmail.com',
+            'bhattiujjval007@gmail.com',
+            'shailendermy.10@gmail.com' 
+
+]
 no_of_students = len(students_email)
 # print(no_of_students)
 
