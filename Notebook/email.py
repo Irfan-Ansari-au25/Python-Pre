@@ -59,7 +59,8 @@ students_email = [
                 'santprakash28877@gmail.com',
                 'ruthvikchintam@gmail.com',
                 'bhavanreddy326@gmail.com',
-                'bariavs41@gmail.com'
+                'bariavs41@gmail.com',
+                'sirlakhwinder@gmail.com'
             
             ]
 temp = [
